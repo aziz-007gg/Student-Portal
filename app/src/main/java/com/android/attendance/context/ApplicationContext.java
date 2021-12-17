@@ -40,6 +40,11 @@ public class ApplicationContext extends Application {
 		this.attendanceBeanList = attendanceBeanList;
 	}
 	
-	
+
 
 }
+
+
+
+
+//End file
